@@ -487,7 +487,7 @@ function Gaming()
 
     }
     return <>
-    <div className="row   text-white ">
+    <div className="row   text-white vh-md-100 min-vh-md-100 ">
     {show?<div className="modal fade show d-block" tabIndex="-1" role="dialog" style={{ backgroundColor: "rgba(0, 0, 0, 0.5)" }}>
           <div className="modal-dialog  bg-primary text-light" role="document">
             <div className="modal-content bg-primary text-light">
