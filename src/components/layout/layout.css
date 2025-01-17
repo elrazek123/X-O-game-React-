@@ -1,0 +1,20 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+}
+section
+{
+    border-top:10px solid red;
+}
+body
+{
+    position: relative;
+}
+footer
+{
+
+    border-bottom:10px solid red;
+ 
+    width: 100%;
+}

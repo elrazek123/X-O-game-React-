@@ -1,0 +1,16 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+}
+.x-o-squares  div
+{
+height: 200px;
+}
+@media screen and (max-width:800px)
+{
+.x-o-squares  div
+{
+height: 120px;
+}
+}
