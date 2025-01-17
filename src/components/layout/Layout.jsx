@@ -8,7 +8,7 @@ function Layout()
         <h1>playWithMe</h1>
        </nav>
        <section className="bg-primary ">
-       <div className="container vh-100">
+       <div className="container   min-vh-100">
       <Outlet></Outlet>
        </div>
        </section>
